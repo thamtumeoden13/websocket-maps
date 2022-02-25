@@ -1,0 +1,24 @@
+{
+    "name": "websocket-maps",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bufferutil": "^4.0.6",
+        "express": "^4.17.3",
+        "global": "^4.4.0",
+        "nodemon": "^2.0.15",
+        "socket.io": "^4.4.1",
+        "utf-8-validate": "^5.0.8",
+        "ws": "^8.5.0"
+    },
+    "devDependencies": {
+        "concurrently": "^7.0.0"
+    }
+}
